@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--
+        tag code serve para destacar um trecho de codigo
+        tag pre vai exibir um codigo exatamente como ele foi digitado
+        no codigo inclusive os espaços!
+
+        tag code 
+        display: inline
+        categoria: fluxo e fraseado
+        contido por: fraseado
+        filhos: fraseado
+
+
+    -->
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Aula 18 tag code & pre</title>
+    </head>
+    <style>
+        pre{
+            border: 1px solid #000;
+            padding: 1px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+    </style>
+    <body>
+        <p>O segmento de codigo a seguir representa o corpo basico de um programa
+            em C.
+        </p>
+        <code>
+            <pre>
+            #include &lsaquo;stdio.h&rsaquo; 
+            #include &lsaquo;stdlib.h&rsaquo;
+            #include &lsaquo;locale.h&rsaquo;
+
+            int main(){
+                setlocale(LC_ALL,"Portuguese");
+                printf("Código basico em C");
+                system("pause");
+
+                return 0;
+            }
+            </pre>
+        </code>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Nunc vitae feugiat neque. Class aptent taciti sociosqu ad
+            litora torquent per conubia nostra, per inceptos himenaeos.
+            Curabitur nec turpis pharetra, bibendum odio a, fermentum
+            turpis. Pellentesque eleifend enim in mauris vulputate dapibus
+            eget eu purus. Nulla a elit in augue porta posuere eu in 
+            odio. Phasellus in mauris ornare, ultricies justo ut, 
+            imperdiet nulla. Nunc vitae ante sed magna lacinia molestie. Fusce a est non ligula dignissim efficitur id et sapien. Praesent quis nibh tincidunt, tristique lectus sed, laoreet sem.
+        </p>
+    </body>
+</html>
