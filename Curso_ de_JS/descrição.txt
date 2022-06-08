@@ -1,0 +1,21 @@
+O que é JavaScript?
+
+---- É uma linguagem de programação de alto nivel;
+---- Auxilia na criação de paginas, junto de HTML(estrutura da pagina) e CSS( estetica)
+---- Possui Tripagem Dinamica fraca;
+---- è considerado multiparadigma(oo, imperativo, funcional)
+
+Para que serve o JS?
+
+--- Manipulação de elementos e estilos na pagina (DOM)
+--- Criar eventos em uma pagina;
+--- Pode ser ultilizada no back-end(Node.js);
+
+O que vamos aprender:
+-- As Diversas ultilizações do JavaScript;
+-- Sintaxe;
+-- Tipos de dados;
+-- Estruturas de condição e repetição;
+-- Manipulação de DOM;
+-- Eventos do JavaScript
+-- Particularidaes do JS;
