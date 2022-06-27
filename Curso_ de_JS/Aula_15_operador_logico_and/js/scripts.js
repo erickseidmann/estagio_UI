@@ -1,3 +1,13 @@
+/* Operadores logicos 
+Nas linguagens de programação existem os operadores logicos;
+Estes operadores realizam comparações para que seja retornado um true ou false;
+decidindo então o fluxo da aplicação;
+ultilizando principalemtne nas instruçoes de condição e repetição, 
+em conjunto dos operadores de comparação;
+
+
+*/
+
 var idade = 16;
 var nome = "João";
 
